@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavigationViewII</string>
+    <string name="home_bottom_navigation_menu">Home</string>
+    <string name="profile_bottom_navigation_menu">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
